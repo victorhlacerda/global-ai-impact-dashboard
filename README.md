@@ -12,7 +12,7 @@ Home
 
 General page
 
-<img width="1355" height="758" alt="image" src="https://github.com/user-attachments/assets/b527bece-80ce-494d-84fd-b889b38b7b3d" />
+<img width="1387" height="795" alt="image" src="https://github.com/user-attachments/assets/c1eb9eae-3773-48ff-a132-c5fb0f10d378" />
 
 Human indicators page
 
