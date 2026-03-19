@@ -6,9 +6,17 @@ O objetivo principal foi transformar métricas de adoção e confiança em uma n
 
 ---
 
-![Home] (<img width="1121" height="635" alt="image" src="https://github.com/user-attachments/assets/54eb5026-5982-4d4e-a05d-4dd819800ff1" />
-![General page](<img width="1128" height="626" alt="image" src="https://github.com/user-attachments/assets/0d8a69ec-5aed-455d-8318-46b8a61de7a0" />
-![Human indicators page](<img width="1121" height="636" alt="image" src="https://github.com/user-attachments/assets/9ce33af3-0c13-4e41-98a7-ae0aae3f309e" />
+Home 
+
+<img width="1121" height="635" alt="image" src="https://github.com/user-attachments/assets/54eb5026-5982-4d4e-a05d-4dd819800ff1" />
+
+General page
+
+<img width="1355" height="758" alt="image" src="https://github.com/user-attachments/assets/b527bece-80ce-494d-84fd-b889b38b7b3d" />
+
+Human indicators page
+
+<img width="1121" height="636" alt="image" src="https://github.com/user-attachments/assets/9ce33af3-0c13-4e41-98a7-ae0aae3f309e" />
 
 ---
 
@@ -18,8 +26,8 @@ O diferencial deste projeto foi o planejamento visual antes da implementação. 
 * Design de ícones e componentes personalizados.
 * Definição de identidade visual (Cores e Tipografia).
 
-![Figma Design](<img width="1045" height="613" alt="figma_foto" src="https://github.com/user-attachments/assets/0d65e4e1-b8be-4a6b-a8a7-baf93d0ecccb" />
-)
+Figma Design
+<img width="1070" height="642" alt="image" src="https://github.com/user-attachments/assets/5c9fef83-975a-4c89-b426-af029243e26c" />
 
 ---
 
@@ -30,8 +38,8 @@ Apesar do foco em design, a estrutura de dados foi pensada para ser organizada e
 * **Padronização:** Nomenclatura em *snake_case* e prefixos (`avg_`, `sum_`, `div_`) para facilitar a manutenção técnica.
 * **Interatividade:** Navegação fluida via botões e filtros personalizados (Chiclet Slicer).
 
-![DAX Organization](<img width="684" height="566" alt="DAX" src="https://github.com/user-attachments/assets/25187194-6008-4aaa-a92e-b4a1e6630594" />
-)
+
+<img width="551" height="444" alt="image" src="https://github.com/user-attachments/assets/a80a0925-2042-430b-a7d6-f9f53d3b0fa2" />
 
 ---
 
@@ -48,4 +56,4 @@ Para manter o Storytelling claro, foquei em indicadores diretos:
 1. Baixe o arquivo `.pbix` disponível neste repositório.
 2. Abra no Power BI Desktop.
 
-*Layout inspirado em recursos da Figma Community.
+Layout inspirado em recursos da Figma Community.
