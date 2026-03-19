@@ -16,7 +16,7 @@ General page
 
 Human indicators page
 
-<img width="1121" height="636" alt="image" src="https://github.com/user-attachments/assets/9ce33af3-0c13-4e41-98a7-ae0aae3f309e" />
+<img width="1353" height="761" alt="image" src="https://github.com/user-attachments/assets/f1761f30-0379-422d-988b-be3fc6aacea9" />
 
 ---
 
